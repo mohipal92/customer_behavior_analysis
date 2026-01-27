@@ -1,4 +1,4 @@
-# End-to-End Data Analysis using Python & SQL
+# End-to-End Data Analysis using Python ,Mysql & Power BI
 
 ## Overview
 This project demonstrates an end-to-end data analysis workflow using **Python and SQL**.  
